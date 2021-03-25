@@ -7,6 +7,8 @@
 
 ![](img\20210325201611.png)
 
+![](https://github.com/sliyufei/cloudImg/blob/main/img/20210325201611.png)
+
 ### CLASSPATH
 
 - **CLASSPATH**是**JVM**进行类加载时候所需要的环境变量，意思就是从指定的目录中加载*** *.class***文件，默认的**CLASSPATH**是.(当前目录）
